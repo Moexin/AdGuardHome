@@ -21,12 +21,12 @@ jobs:
         while true;do wget -T 15 -c https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt -O ./Spam404.list && break;done
         rm -f ./BarbBlock.list
         while true;do wget -T 15 -c https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt -O ./BarbBlock.list && break;done
-        rm -f ./Neo Dev Host.list
-        while true;do wget -T 15 -c https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker -O ./Neo Dev Host.list && break;done
-        rm -f ./Scam Blocklist by DurableNapkin.list
-        while true;do wget -T 15 -c https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt -O ./Scam Blocklist by DurableNapkin.list && break;done
-        rm -f ./The Big List of Hacked Malware Web Sites.list
-        while true;do wget -T 15 -c https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list -O ./The Big List of Hacked Malware Web Sites.list && break;done
+        rm -f ./Neo-Dev-Host.list
+        while true;do wget -T 15 -c https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker -O ./Neo-Dev-Host.list && break;done
+        rm -f ./Scam-Blocklist-by-DurableNapkin.list
+        while true;do wget -T 15 -c https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt -O ./Scam-Blocklist-by-DurableNapkin.list && break;done
+        rm -f ./The-Big-List-of-Hacked-Malware-Web-Sites.list
+        while true;do wget -T 15 -c https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list -O ./The-Big-List-of-Hacked-Malware-Web-Sites.list && break;done
     - name: Step 3 - Release
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
