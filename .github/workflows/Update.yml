@@ -13,20 +13,13 @@ jobs:
       uses: actions/checkout@v2
     - name: Step 2 - Build
       run: |
-        rm -f ./AdGuardHome.list
-        while true;do wget -T 15 -c https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2adguardhome_blacklist_lite_split.txt -O ./AdGuardHome.list && break;done
-        rm -f ./Halflife.list
-        while true;do wget -T 15 -c https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt -O ./Halflife.list && break;done
-        rm -f ./Spam404.list
-        while true;do wget -T 15 -c https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt -O ./Spam404.list && break;done
-        rm -f ./BarbBlock.list
-        while true;do wget -T 15 -c https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt -O ./BarbBlock.list && break;done
-        rm -f ./Neo-Dev-Host.list
-        while true;do wget -T 15 -c https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker -O ./Neo-Dev-Host.list && break;done
-        rm -f ./Scam-Blocklist-by-DurableNapkin.list
-        while true;do wget -T 15 -c https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt -O ./Scam-Blocklist-by-DurableNapkin.list && break;done
-        rm -f ./The-Big-List-of-Hacked-Malware-Web-Sites.list
-        while true;do wget -T 15 -c https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list -O ./The-Big-List-of-Hacked-Malware-Web-Sites.list && break;done
+        wget https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2adguardhome/blacklist_lite_split.txt -O ./AdGuardHome.list
+        wget https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt -O ./Halflife.list
+        wget https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt -O ./Spam404.list
+        wget https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt -O ./BarbBlock.list
+        wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker -O ./Neo-Dev-Host.list
+        wget https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt -O ./Scam-Blocklist-by-DurableNapkin.list
+        wget https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list -O ./The-Big-List-of-Hacked-Malware-Web-Sites.list
     - name: Step 3 - Release
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
