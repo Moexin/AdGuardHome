@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2021-02-09
+# Last update: 2021-02-10
 #
-# Number of blocked domains:  88467
+# Number of blocked domains:  88479
 #
 #=====================================
 ||0.nextyourcontent.com^
@@ -2906,6 +2906,7 @@
 ||a.52zxw.com^
 ||a.76674bdad304297eda3d325f449f6f49.com^
 ||a.77shw.com^
+||a.78yx.net^
 ||a.90370.com^
 ||a.91nets.cn^
 ||a.91zhongkao.com^
@@ -9059,6 +9060,7 @@
 ||aff.ringtonepartner.com^
 ||aff.simibo.net^
 ||aff.summercart.com^
+||aff.svjump.com^
 ||aff.tagcdn.com^
 ||aff12.com^
 ||aff1xstavka.com^
@@ -10363,6 +10365,7 @@
 ||analyti.io^
 ||analyti.uber.space^
 ||analytiall.com^
+||analytic-client.playful-fairies.com^
 ||analytic.ae.com^
 ||analytic.baodantoc.vn^
 ||analytic.detik.com^
@@ -13767,6 +13770,7 @@
 ||baid1.okooo.com^
 ||baidu-jxf.co^
 ||baidu-taobao-av.com^
+||baidu.bxwx3.org^
 ||baidu.greenxf.cn^
 ||baidu.jz5u.net^
 ||baidu.tlssyg.com^
@@ -14465,6 +14469,7 @@
 ||bd.hao224.com^
 ||bd.haomagujia.com^
 ||bd.hd.sohu.com^
+||bd.watu.cn^
 ||bd1-china.6789.com^
 ||bd1-china.xsfaya.com^
 ||bd1.365qilu.com^
@@ -14811,6 +14816,7 @@
 ||beiren.xyz^
 ||beiven.pw^
 ||beiwaicd.com^
+||beizhoujt.cn^
 ||bejeweled-skies-prod.elasticbeanstalk.com^
 ||bejzz.top^
 ||bek5qstfnr.club^
@@ -20302,7 +20308,6 @@
 ||cloudfront-labs.amazonaws.com^
 ||cloudfront.adflex.vn^
 ||cloudfront.mclick.mobi^
-||cloudgallery.net^
 ||cloudiiv.com^
 ||cloudimagesa.com^
 ||cloudioo.net^
@@ -23003,6 +23008,7 @@
 ||cz6.clickzs.com^
 ||cz7.clickzs.com^
 ||cz7.clickzzs.nl^
+||cz75pw.kl0ru78.xyz^
 ||cz8.clickzs.com^
 ||cz8.clickzzs.nl^
 ||cz9.clickzs.com^
@@ -23121,6 +23127,7 @@
 ||d.shareaholic.com^
 ||d.skimresources.com^
 ||d.socdm.com^
+||d.sourcepoint.capitalfm.com^
 ||d.sspcash.adxcore.com^
 ||d.t.sieu-viet.com^
 ||d.t.tailtarget.com^
@@ -23389,6 +23396,7 @@
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2ip7iv1l4ergv.cloudfront.net^
 ||d2j042cj1421wi.cloudfront.net^
+||d2j1fszo1axgmp.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
 ||d2k7b1tjy36ro0.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
@@ -32009,6 +32017,7 @@
 ||gem.pl^
 ||gemhamsore.com^
 ||gemini.yahoo.com^
+||gemius.mgr.consensu.org^
 ||gemius.pl^
 ||gemtrackers.com^
 ||gemverify.com^
@@ -34577,6 +34586,7 @@
 ||hfcp10.com^
 ||hfiorasadions.mobi^
 ||hfjuki.com^
+||hflvhua.com^
 ||hfqxjx.cn^
 ||hfsn.info^
 ||hfsteel.net^
@@ -46664,6 +46674,7 @@
 ||mommyish.us.intellitxt.com^
 ||momode.net^
 ||momoxxio.com^
+||momwentthere.cf^
 ||momzs.com^
 ||mon-deu-1.inf.nimiq.network^
 ||mon-deu-2.inf.nimiq.network^
@@ -48719,6 +48730,7 @@
 ||ngecity.com^
 ||ngehochsi.fun^
 ||ngessupposi.club^
+||nggwhyk.cn^
 ||nginx-auction-prd-gcp.adsx.unityads.unity3d.com^
 ||nginx12.iad1.videohub.tv^
 ||nginx13.iad1.videohub.tv^
@@ -49711,6 +49723,7 @@
 ||oalselry.com^
 ||oamsrhads.us.publicus.com^
 ||oamtrk.com^
+||oanimsen.net^
 ||oao-d.openx.net^
 ||oapseele.net^
 ||oaraunal.com^
@@ -51730,7 +51743,6 @@
 ||p.placemypixel.com^
 ||p.presage.io^
 ||p.profistats.net^
-||p.pstatp.com^
 ||p.qfmzys.com^
 ||p.raasnet.com^
 ||p.raidmedia.com.cn^
@@ -51770,19 +51782,16 @@
 ||p05.notifa.info^
 ||p0y.cn^
 ||p1.chinakaoyan.com^
-||p1.pstatp.com^
 ||p1.tcr21.tynt.com^
 ||p1.tribution.mobi^
 ||p1.zhongyoo.com^
 ||p1.zhumengwl.com^
-||p10.pstatp.com^
 ||p128902.clksite.com^
 ||p1cluster.cxense.com^
 ||p1wr6.cn^
 ||p1zt1c.ddtacd1.com^
 ||p2.hunantv.com^
 ||p2.l.qq.com^
-||p2.pstatp.com^
 ||p2.tribution.mobi^
 ||p2.ykauto.cn^
 ||p215223.clksite.com^
@@ -51805,7 +51814,6 @@
 ||p3.eyereturn.com^
 ||p3.hnhgw.cn^
 ||p3.l.qq.com^
-||p3.pstatp.com^
 ||p3.tribution.mobi^
 ||p30839.clksite.com^
 ||p30rank.ir^
@@ -51816,7 +51824,6 @@
 ||p3p.sogou.com^
 ||p3p.yahoo.com^
 ||p3x223.86666608.com^
-||p4.pstatp.com^
 ||p4.tribution.mobi^
 ||p400.atemda.com^
 ||p4dt2-0edaj.ads.tremorhub.com^
@@ -51831,25 +51838,20 @@
 ||p4dt2-uma55.ads.tremorhub.com^
 ||p4dt2-weet1.ads.tremorhub.com^
 ||p4psearch.china.alibaba.com^
-||p5.pstatp.com^
 ||p5.tribution.mobi^
 ||p555.cc^
 ||p5genexs.com^
-||p6.pstatp.com^
 ||p6.tribution.mobi^
 ||p64gk2yhba0p.com^
 ||p69523.clksite.com^
 ||p6p2w3v92czo.com^
-||p7.pstatp.com^
 ||p7.tribution.mobi^
 ||p74.cc^
 ||p77777777.com^
 ||p78lld1s.top^
 ||p7m1rc80jdum.com^
-||p8.pstatp.com^
 ||p8.tribution.mobi^
 ||p8u.hinet.net^
-||p9.pstatp.com^
 ||p9.tribution.mobi^
 ||p99998888.com^
 ||p9oqu.com^
@@ -52423,9 +52425,7 @@
 ||pb.sys.pp8.com^
 ||pb.tynt.com^
 ||pb.wang502.com^
-||pb1.pstatp.com^
 ||pb1.qujishu.com^
-||pb2.pstatp.com^
 ||pb2.qujishu.com^
 ||pb3.pstatp.com^
 ||pb5oqguywycj.com^
@@ -55712,6 +55712,7 @@
 ||pubserver.xl.pt^
 ||pubshop.img.uol.com.br^
 ||pubstack.io^
+||pubtech.ai^
 ||pubted.com^
 ||pubwise-d.openx.net^
 ||pubwise.io^
@@ -55870,6 +55871,7 @@
 ||pushaction.foxpush.com^
 ||pushad.adsparc.com^
 ||pushad.metajoy.services^
+||pushaddict.com^
 ||pushads.biz^
 ||pushagim.com^
 ||pushalert.co^
@@ -57039,6 +57041,7 @@
 ||raujebet.net^
 ||rauntilperin.club^
 ||raupsooy.net^
+||rav4.wn052ucd.online^
 ||ravalads.com^
 ||ravalynn.pw^
 ||ravelin.click^
@@ -58608,6 +58611,7 @@
 ||rote8mino.com^
 ||rotor6.newzfind.com^
 ||rotorads.com^
+||rottenwhorememe.cf^
 ||rottilderum.cam^
 ||rotumal.com^
 ||roughroll.com^
@@ -60270,6 +60274,7 @@
 ||schlauli.de^
 ||scholardevilcrayon.com^
 ||scholarship.osmangony.info^
+||scholarshipidol.com^
 ||schoolbustracker.softgig.co.ke^
 ||schoolyeargo.com^
 ||schoorsteen.geenstijl.nl^
@@ -61526,6 +61531,7 @@
 ||setup.advancedcleaner.com^
 ||setupad-d.openx.net^
 ||setupad.com^
+||setupbarton.com^
 ||seuukkd.cn^
 ||sev4ifmxa.com^
 ||sevendaystart.com^
@@ -68333,6 +68339,7 @@
 ||tk.mediacategory.com^
 ||tk.meinprospekt.de^
 ||tk.optaim.com^
+||tk.promit.ru^
 ||tk.storetail.io^
 ||tk6if76q.ab1n.net^
 ||tka.tiki.vn^
@@ -72547,6 +72554,7 @@
 ||vcdn.anthill.vn^
 ||vcdn.media.innity.net^
 ||vcfnspbgztl.com^
+||vcfs6ip5h6.bi^
 ||vcfs6ip5h6.bid^
 ||vch.voyage-prive.ch^
 ||vchiy.com^
@@ -73685,6 +73693,7 @@
 ||vww-olx-pl.com^
 ||vx88.com^
 ||vx88e.com^
+||vxelkrhl.info^
 ||vxiframe.biz^
 ||vxkfvzhduws.com^
 ||vxrpmslex.com^
@@ -73710,6 +73719,7 @@
 ||vzrufh.com^
 ||vztfc.com^
 ||vzvpswkjpxvzs.com^
+||vzzexalcirfgrf.ru^
 ||vzzylo.com^
 ||w-m-w.net^
 ||w-tres.info^
@@ -75210,6 +75220,7 @@
 ||wizliebeg.com^
 ||wizwarsum.site^
 ||wj.jiancai365.cn^
+||wjaa23.com^
 ||wjdfv.com^
 ||wjeeqkdbjsg.com^
 ||wjgohz.com^
@@ -86625,6 +86636,7 @@
 ||yourclk.com^
 ||yourdailytrailer.yournewtab.com^
 ||yourdatelink.com^
+||yourdestinationlink.com^
 ||yourdrugsassist.com^
 ||yourdvdplayer.com^
 ||yourfitway.com^
